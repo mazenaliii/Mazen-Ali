@@ -1,7 +1,7 @@
-<!-- Banner -->
+
 ![Mazen A. Hassan — Fullstack Developer](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Mazen%20Hassan%20—%20Fullstack%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<!-- Animated Typing Intro -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F2FE&width=700&lines=💻+Fullstack+Developer;🚀+Turning+ideas+into+scalable+solutions;⚡+3.5%2B+Years+of+Building+Web+and+Mobile+Apps)](https://git.io/typing-svg)
 
 ---
