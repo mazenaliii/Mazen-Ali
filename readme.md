@@ -51,14 +51,14 @@ I turn **ideas into production-ready solutions** using clean code, modern design
 ---
 
 ## 📊 My GitHub Stats
-![Mazen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Mazen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazenaliii&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazenaliii&layout=compact&theme=radical)
 
 ---
 
 ## 📲 Contact Me
-📱 **WhatsApp:** [+20 123 456 7890](https://wa.me/201234567890)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+📱 **WhatsApp:** [+20 11 2781 6876](https://wa.me/201127816876)  
+💼 **LinkedIn:** [linkedin.com/in/mazenalihassan](https://www.linkedin.com/in/mazen-a-hassan-372937304/)
 🌐 **Portfolio:** Coming Soon 🚧  
 
 ---
